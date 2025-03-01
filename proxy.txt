@@ -1,70 +1,19 @@
-129.159.32.235,53520,US,Oracle Cloud
-198.23.135.181,1010,US,ColoCrossing
-45.140.167.225,2053,GB,Stark Industries Solutions
-38.76.145.177,443,US,Cogent Communications
-45.89.63.111,443,GB,Baykov Ilya Sergeevich
-38.102.235.21,48676,US,Zhejiang Aiyun Network Technology Co
-173.249.203.187,20154,US,tzulo
-74.120.170.56,443,US,IT7 Networks Inc
 95.164.37.32,443,GB,Stark Industries Solutions
-67.215.14.238,8443,CA,GloboTech Communications
-72.10.173.74,8443,CA,GloboTech Communications
-139.64.247.35,37163,CA,DATACITY
-107.182.17.246,27116,US,IT7 Networks Inc
-72.10.173.97,8443,CA,GloboTech Communications
-43.135.166.95,17773,US,Tencent cloud computing
-185.218.3.35,443,GB,PQ HOSTING SRL
-77.91.101.141,443,GB,Stark Industries Solutions
-179.43.190.20,8443,CH,Private Layer
-46.8.237.63,8443,FI,CGI GLOBAL LIMITED
-185.94.167.181,2053,FI,I-servers
-185.219.134.124,20206,TR,Hostigger
-217.196.106.116,8443,SE,Aeza International
-77.221.137.133,443,SE,Aeza International
-79.137.206.64,443,SE,Aeza International
-185.230.143.121,443,SE,Aeza International
-193.233.115.208,2053,SE,Aeza International
-89.22.239.38,8443,SE,Aeza International
-77.91.84.225,443,SE,Aeza International
-212.113.100.158,443,SE,Aeza International
-91.103.140.118,2053,SE,Aeza International
-185.174.137.106,2053,SE,Aeza International
-109.120.132.127,8443,SE,Aeza International
-85.192.61.87,2053,SE,Aeza International
-109.107.190.164,27654,SE,Aeza International
-109.120.133.159,2053,SE,Aeza International
-193.188.21.94,8443,SE,Aeza International
-212.113.102.83,2053,SE,Aeza International
-46.226.160.205,8443,SE,Aeza International
-147.45.74.14,2053,SE,Aeza International
+173.249.203.187,20154,US,tzulo
+198.23.135.181,1010,US,ColoCrossing
 89.22.238.90,2053,SE,Aeza International
-147.45.76.158,2053,SE,Aeza International
-195.133.2.227,8443,SE,Aeza International
-147.45.73.226,2053,SE,Aeza International
-77.221.158.125,2053,SE,Aeza International
-79.137.248.200,8443,SE,Aeza International
-91.184.240.241,2053,SE,Aeza International
-89.22.225.57,8443,SE,Aeza International
+185.174.137.106,2053,SE,Aeza International
+67.215.14.238,8443,CA,GloboTech Communications
+129.159.32.235,53520,US,Oracle Cloud
+74.120.170.56,443,US,IT7 Networks Inc
+77.91.101.141,443,GB,Stark Industries Solutions
+185.218.3.35,443,GB,PQ HOSTING SRL
+45.89.63.111,443,GB,Baykov Ilya Sergeevich
 147.45.72.62,8443,SE,Aeza International
-147.45.73.252,2053,SE,Aeza International
-91.184.241.113,443,SE,Aeza International
-185.114.73.79,2053,ES,First Server
-77.232.143.3,2053,SE,Aeza International
-212.113.100.191,2053,SE,Aeza International
-185.230.143.122,443,SE,Aeza International
-185.114.73.79,8443,ES,First Server
-147.45.74.37,8443,SE,Aeza International
-92.246.137.219,8443,SE,Aeza International
-176.124.206.60,2053,SE,Aeza International
-103.45.245.201,29016,ES,Kamatera Inc
-193.188.21.83,8443,SE,Aeza International
-193.188.21.248,2053,SE,Aeza International
-147.45.164.133,2053,RU,TimeWeb
-109.120.132.113,2053,SE,Aeza International
+77.221.137.133,443,SE,Aeza International
 93.93.119.91,443,ES,1&1 Internet AG
-185.174.137.35,2053,SE,Aeza International
+147.45.164.133,2053,RU,TimeWeb
 178.236.244.8,2053,SE,Aeza International
+185.114.73.79,8443,ES,First Server
+92.246.137.219,8443,SE,Aeza International
 90.165.204.7,443,ES,Orange Espana
-147.45.74.37,2053,SE,Aeza International
-90.156.228.74,8443,PL,TimeWeb
-45.136.199.179,28443,RO,M247 Europe
