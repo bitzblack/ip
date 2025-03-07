@@ -1,17 +1,11 @@
-67.215.14.238,8443,CA,GloboTech Communications
-173.249.203.187,20154,US,tzulo
 185.114.73.79,8443,ES,First Server
-147.45.72.62,8443,SE,Aeza International
-89.22.238.90,2053,SE,Aeza International
-198.23.135.181,1010,US,ColoCrossing
-95.164.37.32,443,GB,Stark Industries Solutions
-93.93.119.91,443,ES,1&1 Internet AG
-129.159.32.235,53520,US,Oracle Cloud
-74.120.170.56,443,US,IT7 Networks Inc
-185.218.3.35,443,GB,PQ HOSTING SRL
-77.91.101.141,443,GB,Stark Industries Solutions
 45.89.63.111,443,GB,Baykov Ilya Sergeevich
-77.221.137.133,443,SE,Aeza International
 90.165.204.7,443,ES,Orange Espana
+77.91.101.141,443,GB,Stark Industries Solutions
 185.174.137.106,2053,SE,Aeza International
-178.236.244.8,2053,SE,Aeza International
+95.164.37.32,443,GB,Stark Industries Solutions
+173.249.203.187,20154,US,tzulo
+147.45.72.62,8443,SE,Aeza International
+93.93.119.91,443,ES,1&1 Internet AG
+74.120.170.56,443,US,IT7 Networks Inc
+198.23.135.181,1010,US,ColoCrossing
